@@ -5,7 +5,6 @@ This repository contains an R project analyzing various datasets and performing 
 ## Table of Contents
 - [Overview](#overview)
 - [Requirements](#requirements)
-- [Setup](#setup)
 - [Usage](#usage)
 
 ## Overview
